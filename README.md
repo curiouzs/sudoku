@@ -133,7 +133,7 @@ print("\n\n{0} seconds".format(time_taken))
 ```
 
 ## Output:
-
+![sudoko](https://user-images.githubusercontent.com/75234646/172674802-e61c35b4-f685-4131-8103-daf7d57ca9ba.PNG)
 
 ## Result:
 Thus, a program to solve sudoku puzzle using constraint propagation is implemented successfully.
